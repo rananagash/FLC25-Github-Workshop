@@ -10,7 +10,8 @@
     "github": "bearatron",
     "bio": "hi, I like coding + bears are cool"
   },
-     "name": "Huda Anum",
+     {
+       "name": "Huda Anum",
      "github": "hedwig2007",
      "bio": "One-liner about you (optional)."
    },
