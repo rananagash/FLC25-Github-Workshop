@@ -3,7 +3,7 @@
 Welcome! This is a collaborative site where FLC students learn Git and GitHub by adding themselves to a live page.
 
 ## 💻 How to Contribute
-1. Fork this repo
+1. Clone this repo
 2. Create a new branch: `git checkout -b add-your-name`
 3. Edit `data/contributors.json` and add your info:
    ```json
