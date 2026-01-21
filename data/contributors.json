@@ -5,10 +5,35 @@
     "github": "rananagash",
     "bio": "CS @ UofT. :))))))"
   },
-    {
+
+  {
+    "name": "Andrew Koes",
+    "github": "ARKLightning06",
+    "bio": "A person"
+  },
+  
+  {
     "name": "Saanvi Tyagi",
     "github": "saanvi521",
     "bio": "CS @ UofT. :))))))"
+  },
+  
+  {
+    "name": "Vennise Ho",
+    "github": "venniseho",
+    "bio": "FLC PM"
+  },
+  
+  {
+    "name": "Jirat L.",
+    "github": "GitShard1",
+    "bio": "I game dev"
+  },
+  
+  {
+  "name": "Cid",
+  "github": "CID-73",
+  "bio": ""
   }
-]
 
+]
